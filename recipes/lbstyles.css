@@ -4,3 +4,8 @@
     background-color: aqua;
     font-size: 25px;
 }
+#ingr {
+    background-color: rgb(253, 169, 183);
+    color: hsl(47, 75%, 9%);
+    font-family: Georgia, 'Times New Roman', sans-serif;
+}
