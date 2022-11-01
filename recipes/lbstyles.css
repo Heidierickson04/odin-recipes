@@ -1,11 +1,19 @@
 
 .best {
     color: rgb(74, 255, 50);
-    background-color: aqua;
     font-size: 25px;
+}
+#serv {
+    font-size: small;
+}
+.prep {
+    color: rgb(25, 50, 75);
 }
 #ingr {
     background-color: rgb(253, 169, 183);
     color: hsl(47, 75%, 9%);
     font-family: Georgia, 'Times New Roman', sans-serif;
+}
+.dir {
+    background-color: hsl(10, 30%, 40%);
 }
