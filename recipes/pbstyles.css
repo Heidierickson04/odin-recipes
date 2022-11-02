@@ -1,0 +1,10 @@
+#ser {
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: rgb(174, 0, 0);
+}
+.img {
+    height: 200px;
+    width: auto;
+}
