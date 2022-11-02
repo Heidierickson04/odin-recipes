@@ -1,0 +1,20 @@
+.title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#hthree {
+    color: #710096;
+}
+#rojo {
+    font-weight: bolder;
+    background-color: #d90000;
+    color: #181717;
+}
+#blu {
+    font-weight: bolder;
+    background-color: #030062;
+    color: #181717;
+}
+#whit {
+    font-weight: bold;
+    color: #181717;
+}
